@@ -64,7 +64,7 @@ nav ul :hover {
 
 /* Cabeçalho */
 header{
-    background-image: url(img/fundo.jpg);
+    background-image: url(fundo.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
